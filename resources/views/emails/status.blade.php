@@ -1,0 +1,1 @@
+<strong>El estado de tu solicitud es</strong><p>{{$status}}</p>
