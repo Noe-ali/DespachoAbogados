@@ -32,6 +32,11 @@ Puedes hacer deploy a través de Docker o:
 1. Ingresa a la carpeta del proyecto cd ```despachoabogados```
 2. Ejecuta  ```php artisan serve```
 
+
+## Ejemplos del funcionamiento
+1. https://youtu.be/teoZ4zpY418
+2. https://youtu.be/Zb0lGP0_Suc
+
 ## Construido con 🛠️
 
 
